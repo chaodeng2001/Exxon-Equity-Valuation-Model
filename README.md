@@ -51,11 +51,4 @@ This project is designed to demonstrate:
 - numpy
 - matplotlib
 
-## Project Structure
 
-```bash
-exxon-equity-valuation-model/
-│
-├── exxon_valuation.py
-├── README.md
-└── requirements.txt
